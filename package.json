@@ -1,0 +1,15 @@
+{
+  "name": "third-party-modules",
+  "version": "1.0.0",
+  "description": "start with third party modules in node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "ErfanCE",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^17.13.3"
+  }
+}

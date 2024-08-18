@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "firstname": "erfan",
+    "lastname": "ghazimoradi",
+    "username": "erfan@jmail.com",
+    "age": 24,
+    "gender": "male",
+    "phoneNumber": "09122222222"
+  },
+  {
+    "id": 2,
+    "firstname": "behnam",
+    "lastname": "mohammadi",
+    "username": "mohammadi@Gahoo.com",
+    "age": 25,
+    "gender": "male",
+    "phoneNumber": "09122222223"
+  },
+  {
+    "id": 3,
+    "firstname": "mahsa",
+    "lastname": "akbari",
+    "username": "akbari@outseen.com",
+    "age": 32,
+    "gender": "female",
+    "phoneNumber": "09122222255"
+  }
+]
